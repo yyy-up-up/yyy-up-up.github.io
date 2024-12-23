@@ -2,6 +2,9 @@
 title: TeXt - Additional Styles
 key: 20170808
 tags: TeXt
+layout: home
+articles:
+  excerpt_type: html
 ---
 
 Success!
