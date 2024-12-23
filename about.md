@@ -46,7 +46,7 @@ key: page-about
 [:fire:成长记录](https://yyy-up-up.github.io/)
 
 
-<a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/yyy-up-up/count.svg" /></a>
+<p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/yyy-up-up/count.svg" />
 
 ##  [Welcome To 羊羊羊の博客](https://yangchaoyi.vip/)
 
