@@ -35,19 +35,6 @@ key: page-about
   <strong><a href="https://yyy-up-up.github.io/">个人博客</a></strong>
 </p>
 
-## 现在的我
-
-博主是一名新闻工作者，可以称呼我 羊羊羊，在这里分享知识与日常总结。
-
-<a href="https://github.com/yyy-up-up"><img src="https://img.shields.io/github/stars/yyy-up-up?color=faf408&label=github%20stars&logo=github" /></a><br/>
-
-<br/>座右铭：学如逆水行舟，不进则退。<br/> 联系邮箱：zzbwanyuyang@163.com
-
-[:fire:成长记录](https://yyy-up-up.github.io/)
-
-
-<p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/yyy-up-up/count.svg" /></p>
-
 ##  [Welcome To 羊羊羊の博客](https://yangchaoyi.vip/)
 
 <a href="https://alili.tech"><img src="https://raw.githubusercontent.com/yyy-up-up/yyy-up-up.github.io/refs/heads/master/assets/web-app-manifest-512x512.png" align="right" height="275" /></a>
@@ -63,3 +50,14 @@ key: page-about
 
 座右铭：学如逆水行舟，不进则退！
 
+## 现在的我
+
+博主是一名新闻工作者，可以称呼我 羊羊羊，在这里分享知识与日常总结。
+
+<a href="https://github.com/yyy-up-up"><img src="https://img.shields.io/github/stars/yyy-up-up?color=faf408&label=github%20stars&logo=github" /></a><br/>
+
+<br/>座右铭：学如逆水行舟，不进则退。<br/> 联系邮箱：zzbwanyuyang@163.com
+
+[:fire:成长记录](https://yyy-up-up.github.io/)
+
+<p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/yyy-up-up/count.svg" /></p>
