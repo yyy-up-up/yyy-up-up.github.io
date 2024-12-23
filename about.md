@@ -46,7 +46,7 @@ key: page-about
 [:fire:成长记录](https://yyy-up-up.github.io/)
 
 
-<p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/yyy-up-up/count.svg" />
+<p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/yyy-up-up/count.svg" /></p>
 
 ##  [Welcome To 羊羊羊の博客](https://yangchaoyi.vip/)
 
